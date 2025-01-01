@@ -113,7 +113,7 @@ AndreCastillo.github.io/1 folder.png
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.com/Redfooxx/AndreCastillo.github.io/blob/main/1%20folder.png)
 
 ### Small image
 
