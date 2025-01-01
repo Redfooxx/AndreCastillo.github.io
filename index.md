@@ -3,6 +3,8 @@ layout: default
 ---
 <h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio</h1>
 
+<img src="small-picture.jpg" alt="portfolio" width="150" height="150">
+
 
 # **Projects**
 * * *
