@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio</h1><img src="1 folder.png" alt="portfolio" width="50" height="50">
-
+<img src="1 folder.png" alt="portfolio" width="50" height="50">
 <img src="1 folder.png" alt="portfolio" width="60" height="60">
 
 
