@@ -5,6 +5,8 @@ layout: default
 
 <h1 style="font-size: 36px;">**Welcome to My Portfolio**</h1>
 
+<h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio</h1>
+
 
 # **Projects**
 * * *
