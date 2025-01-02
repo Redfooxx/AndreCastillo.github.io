@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio  <img src="1 folder.png" alt="portfolio" width="50" height="50"></h1> 
+<h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio <img src="1 folder.png" alt="portfolio" width="50" height="50"></h1> 
 
 
-# **Projects**<img src="2 laptop.png" alt="portfolio" width="50" height="50">
+# **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
 
-# **Certifications**<img src="3 certificate.png" alt="portfolio" width="50" height="50">
+# **Certifications** <img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
 - [CompTIA Security+](https://www.credly.com/badges/1d10427c-3318-4b9f-8d2a-eb7309943c7d/linked_in_profile)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/redfoxx-9988/credentials/e3c6c930e7c75100?ref=https%3A%2F%2Fwww.linkedin.com%2F)
@@ -15,7 +15,7 @@ layout: default
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/803d8fb2-91f8-46c0-8a78-3960f7432508/linked_in_profile)
 - [Qualys](https://github.com/Redfooxx/Qualys/tree/main)
 
-# **Cyber Security Competitions**<img src="4 trophy.png" alt="portfolio" width="50" height="50"> 
+# **Cyber Security Competitions** <img src="4 trophy.png" alt="portfolio" width="50" height="50"> 
 * * *
 - [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
 - [Hack The Box: University CTF 2024](https://github.com/Redfooxx/Hack-the-Box)
