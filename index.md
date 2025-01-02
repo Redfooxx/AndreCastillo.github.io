@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-<h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio<img src="1 folder.png" alt="portfolio" width="60" height="60"></h1> <img src="1 folder.png" alt="portfolio" width="50" height="50">
-<img src="1 folder.png" alt="portfolio" width="50" height="50">
-<img src="1 folder.png" alt="portfolio" width="60" height="60">
+<h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio<img src="1 folder.png" alt="portfolio" width="50" height="50"></h1> 
 
 
-
-# **Projects**
+# **Projects**<img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
 
-# **Certifications**
+# **Certifications**<img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
 - [CompTIA Security+](https://www.credly.com/badges/1d10427c-3318-4b9f-8d2a-eb7309943c7d/linked_in_profile)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/redfoxx-9988/credentials/e3c6c930e7c75100?ref=https%3A%2F%2Fwww.linkedin.com%2F)
