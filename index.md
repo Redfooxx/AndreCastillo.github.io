@@ -14,7 +14,6 @@ layout: default
 - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/7caa4c6a-7b09-4170-872a-4f965653e1ae/linked_in_profile)
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/803d8fb2-91f8-46c0-8a78-3960f7432508/linked_in_profile)
 - [Qualys](https://github.com/Redfooxx/Qualys/tree/main)
-
 - Splunk Core Certified User (In Progress)
 
 # **Cyber Security Competitions** <img src="4 trophy.png" alt="portfolio" width="50" height="50"> 
