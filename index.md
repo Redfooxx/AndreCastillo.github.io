@@ -6,7 +6,10 @@ layout: default
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
-
+- [Home Security Lab](https://github.com/Redfooxx/National-Cyber-League)
+- [Penetration Testing and Report](https://github.com/Redfooxx/National-Cyber-League)
+- [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
+  
 # **Certifications** <img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
 - [CompTIA Security+](https://www.credly.com/badges/1d10427c-3318-4b9f-8d2a-eb7309943c7d/linked_in_profile)
