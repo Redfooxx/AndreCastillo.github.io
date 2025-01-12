@@ -7,7 +7,7 @@ layout: default
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
 - [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab) 
-- [Install & Configure Suricata & Evebox](https://github.com/Redfooxx/National-Cyber-League)
+- [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
 - [Penetration Testing and Report](https://github.com/Redfooxx/National-Cyber-League)
 - [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
   
