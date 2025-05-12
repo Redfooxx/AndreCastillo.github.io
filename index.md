@@ -25,7 +25,6 @@ layout: default
 - [NCyTE Virtual Cybersecurity Career Challenge](https://github.com/Redfooxx/NCyTE)
 ![image](https://github.com/user-attachments/assets/2481b1da-d571-4626-b4fa-171a88345856)
 - [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
-![image](https://github.com/user-attachments/assets/121eb16f-c391-4563-ac82-42f79be0270a)
 - [Hack The Box: University CTF 2024](https://github.com/Redfooxx/Hack-the-Box)
 ![image](https://github.com/user-attachments/assets/f478801f-ae53-469e-bb92-66c950597deb)
 
