@@ -14,12 +14,13 @@ layout: default
 # **Certifications** <img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
 - [CompTIA Security+](https://www.credly.com/badges/1d10427c-3318-4b9f-8d2a-eb7309943c7d/linked_in_profile)
+- [Splunk Core Certified User](https://www.credly.com/badges/b62bf9b6-0128-487d-bf30-681a38fe1bfb)
 - [Microsoft Certified: Information Security Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/Redfoxx-9988/A5E76E8D9004B07?sharingId=1A98425FC2B2D594)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Redfoxx-9988/E3C6C930E7C75100?sharingId=1A98425FC2B2D594)
 - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/7caa4c6a-7b09-4170-872a-4f965653e1ae/linked_in_profile)
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/803d8fb2-91f8-46c0-8a78-3960f7432508/linked_in_profile)
 - [Qualys](https://github.com/Redfooxx/Qualys/tree/main)
-- Splunk Core Certified User (In Progress)
+- Security Analyst Level 1 (SAL1) Certification (In Progress)
 
 # **Cyber Security Competitions** <img src="4 trophy.png" alt="portfolio" width="50" height="50"> 
 * * *
