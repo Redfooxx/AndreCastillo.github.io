@@ -3,6 +3,8 @@ layout: default
 ---
 <h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio <img src="1 folder.png" alt="portfolio" width="50" height="50"></h1>           
 
+
+# **TryHackMe Profile** 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
