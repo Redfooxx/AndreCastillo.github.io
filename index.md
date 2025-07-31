@@ -5,7 +5,9 @@ layout: default
 
 
 # **TryHackMe Profile** 
+* * *
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>
+
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
