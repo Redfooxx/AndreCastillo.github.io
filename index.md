@@ -35,11 +35,11 @@ layout: default
 
 # **Cyber Security Competitions** <img src="4 trophy.png" alt="portfolio" width="50" height="50"> 
 * * *
-- [NCyTE Virtual Cybersecurity Career Challenge](https://github.com/Redfooxx/NCyTE)
+- ### [NCyTE Virtual Cybersecurity Career Challenge](https://github.com/Redfooxx/NCyTE)
 ![image](https://github.com/user-attachments/assets/2481b1da-d571-4626-b4fa-171a88345856)
-- [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
+- ### [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
 ![1](https://github.com/user-attachments/assets/071aa6c6-fb79-4901-9368-8b2447b40dbf)
-- [Hack The Box: University CTF 2024](https://github.com/Redfooxx/Hack-the-Box)
+- ### [Hack The Box: University CTF 2024](https://github.com/Redfooxx/Hack-the-Box)
 ![image](https://github.com/user-attachments/assets/f478801f-ae53-469e-bb92-66c950597deb)
 
 
