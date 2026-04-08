@@ -12,8 +12,8 @@ layout: default
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
 - [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
-  
-  The aim of this project was to set up a home security lab equipped with a virtualized system running pfSense and Kali Linux, and to test the system using Metasploitable 2.
+
+  Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
 - [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
 - [Penetration Testing: Pentesting Methodology, Planning and Threat Modeling](https://github.com/Redfooxx/PenTesting-Methodology-Planning-and-Threat-Modeling)
 - [Penetration Test Report](https://github.com/Redfooxx/Penetration-Test-Report)
