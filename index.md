@@ -16,7 +16,7 @@ layout: default
 - ### [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
    Deployed Suricata + Evebox and performed PCAP-based alert triage to identify and investigate malware activity (AgentTesla, IcedID, AZORult), documenting victims/attackers, timelines, and key indicators.
 - ### [Penetration Testing: Pentesting Methodology, Planning and Threat Modeling](https://github.com/Redfooxx/PenTesting-Methodology-Planning-and-Threat-Modeling)
-   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
+   Developed penetration test scoping and Rules of Engagement documentation (MOU, authorization, NDA, test plan) to ensure controlled, legally compliant testing that prevents false positives and supports accurate SOC      monitoring during exercises.
 - ### [Penetration Test Report](https://github.com/Redfooxx/Penetration-Test-Report)
    Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
   
