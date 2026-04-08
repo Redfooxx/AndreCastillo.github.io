@@ -15,7 +15,7 @@ layout: default
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
 - ### [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
    Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
-- ## [Penetration Testing: Pentesting Methodology, Planning and Threat Modeling](https://github.com/Redfooxx/PenTesting-Methodology-Planning-and-Threat-Modeling)
+- ### [Penetration Testing: Pentesting Methodology, Planning and Threat Modeling](https://github.com/Redfooxx/PenTesting-Methodology-Planning-and-Threat-Modeling)
    Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
 - ### [Penetration Test Report](https://github.com/Redfooxx/Penetration-Test-Report)
    Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
