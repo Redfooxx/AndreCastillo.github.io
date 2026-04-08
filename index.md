@@ -11,7 +11,7 @@ layout: default
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
-- [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
+- # [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
 
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
 - [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
