@@ -18,6 +18,7 @@ layout: default
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
+- ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis)
 - ### [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
 - ### [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
