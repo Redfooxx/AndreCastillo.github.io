@@ -1,15 +1,22 @@
 ---
 layout: default
----
-<h1 style="font-size: 36px; font-weight: bold; color: white;">Welcome to My Portfolio <img src="1 folder.png" alt="portfolio" width="50" height="50"></h1>           
-
+---      
+<h1 style="font-size: 36px; font-weight: bold; color: white;">
+  Welcome to My Portfolio 
+  <img src="1 folder.png" alt="portfolio" width="50" height="50">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/andre-castillo-3801a056/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:andre1525@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+  </a>
+</h1>
 
 # **TryHackMe Profile** 
 * * *
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-castillo-3801a056/
-<img width="225" height="21" alt="image" src="https://github.com/user-attachments/assets/dff9aba9-7a13-4976-8f0b-bf962e7dccf2" />)
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
 * * *
