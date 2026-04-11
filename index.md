@@ -16,7 +16,7 @@ layout: default
 * * *
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>  
 
-# **Projects** <img src="2 laptop.png" alt="portfolio" width="50" height="50">
+# **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 - ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="80" height="80" alt="elastic logo" src="https://github.com/user-attachments/assets/3daa5922-d257-4a0e-b376-0e9dfb06b8eb" />
 - ### [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
