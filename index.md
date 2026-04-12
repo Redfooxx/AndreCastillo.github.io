@@ -12,6 +12,9 @@ layout: default
   </a>
 </h1>
 
+<img width="500" height="500" alt="logo-elasticsearch-kibana-logstash-database-elastic-5e19173042855e12da7abb422d6d5607" src="https://github.com/user-attachments/assets/af91c608-84b9-40c8-af22-18d2852d0843" />
+
+
 # **TryHackMe Profile** 
 * * *
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>  
