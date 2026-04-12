@@ -12,16 +12,14 @@ layout: default
   </a>
 </h1>
 
-<img width="500" height="500" alt="logo-elasticsearch-kibana-logstash-database-elastic-5e19173042855e12da7abb422d6d5607" src="https://github.com/user-attachments/assets/af91c608-84b9-40c8-af22-18d2852d0843" />
-
-
 # **TryHackMe Profile** 
 * * *
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>  
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
-- ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="80" height="80" alt="elastic logo" src="https://github.com/user-attachments/assets/3daa5922-d257-4a0e-b376-0e9dfb06b8eb" />
+- ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="145" height="47" alt="elasticsearch-computer-software-open-source-software-logo-distributed-computing-elastic-91e012b3499cb7dc6fd09a0530ee9582" src="https://github.com/user-attachments/assets/5a8763a6-0273-4e21-867e-ec1c82aff052" />
+
 - ### [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
 - ### [Intrusion Detection and Prevention Systems](https://github.com/Redfooxx/Intrusion-Detection-and-Prevention-Systems)
