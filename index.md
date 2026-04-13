@@ -19,6 +19,7 @@ layout: default
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 - ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="145" height="47" alt="elasticsearch-computer-software-open-source-software-logo-distributed-computing-elastic-91e012b3499cb7dc6fd09a0530ee9582" src="https://github.com/user-attachments/assets/5a8763a6-0273-4e21-867e-ec1c82aff052" />
+Utilized Elastic SIEM to perform end-to-end alert triage and incident reconstruction by analyzing common security logs and identifying critical Indicators of Compromise (IoCs). I successfully correlated events across disparate log sources to uncover the full lifecycle of a breach, moving from the initial web-based alert to the discovery of malicious command execution.
 
 - ### [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
