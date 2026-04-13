@@ -19,9 +19,9 @@ layout: default
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 
-- ### [SIEM-Sentinel: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="75" height="100" alt="image" src="https://github.com/user-attachments/assets/a38e709f-f5ec-46a9-8a08-48c6dee694ac" />
+- ### [SIEM-Sentinel: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="145" height="55" alt="image" src="https://github.com/user-attachments/assets/7600a89e-893f-4bc1-ab0f-ca88c30b0cfb" />
 
-<img width="442" height="170" alt="image" src="https://github.com/user-attachments/assets/7600a89e-893f-4bc1-ab0f-ca88c30b0cfb" />
+
 
 
   Utilized Microsoft Sentinel SIEM to monitor and investigate a live phishing attack in real-time as it unfolded across a corporate network. I successfully identified critical indicators of compromise, including suspicious DNS requests, PowerShell executions, and reverse shell connections, and synthesized these findings into detailed case reports to map the full scope of the breach.
