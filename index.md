@@ -19,7 +19,7 @@ layout: default
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 
-- ### [SIEM-Splunk: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="100" height="98" alt="629b450a95f79dc9fa7256f1" src="https://github.com/user-attachments/assets/ecb9b323-1aec-4023-9835-7e21bf87384f" />
+- ### [SIEM-Splunk: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="98" alt="629b450a95f79dc9fa7256f1" src="https://github.com/user-attachments/assets/ecb9b323-1aec-4023-9835-7e21bf87384f" />
   Utilized Splunk SIEM to monitor and investigate a live phishing attack in real-time as it unfolded across a corporate network. I successfully identified critical indicators of compromise, including suspicious DNS requests, PowerShell executions, and reverse shell connections, and synthesized these findings into detailed case reports to map the full scope of the breach.
   
 - ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="145" height="47" alt="elasticsearch-computer-software-open-source-software-logo-distributed-computing-elastic-91e012b3499cb7dc6fd09a0530ee9582" src="https://github.com/user-attachments/assets/5a8763a6-0273-4e21-867e-ec1c82aff052" />
