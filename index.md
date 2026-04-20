@@ -19,11 +19,14 @@ layout: default
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 
+- ### [SIEM-Splunk: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="98" alt="629b450a95f79dc9fa7256f1" src="https://github.com/user-attachments/assets/ecb9b323-1aec-4023-9835-7e21bf87384f" />
+Utilized Splunk SIEM to monitor and investigate a live phishing attack in real-time as it unfolded across a corporate network. I successfully identified critical indicators of compromise, including suspicious DNS   requests, PowerShell executions, and reverse shell connections, and synthesized these findings into detailed case reports to map the full scope of the breach.
+
 - ### [SIEM-Elastic: Alert Triage and Log Analysis](https://github.com/Redfooxx/SIEM-Elastic-Alert-Triage-Log-Analysis) &nbsp;&nbsp; <img width="145" height="47" alt="elasticsearch-computer-software-open-source-software-logo-distributed-computing-elastic-91e012b3499cb7dc6fd09a0530ee9582" src="https://github.com/user-attachments/assets/5a8763a6-0273-4e21-867e-ec1c82aff052" />
   Utilized Elastic SIEM to perform end-to-end alert triage and incident reconstruction by analyzing common security logs and identifying critical Indicators of Compromise (IoCs). I successfully     correlated events across disparate log sources to uncover the full lifecycle of a breach, moving from the initial web-based alert to the discovery of malicious command execution.
 
-- ### [SIEM-Splunk: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="98" alt="629b450a95f79dc9fa7256f1" src="https://github.com/user-attachments/assets/ecb9b323-1aec-4023-9835-7e21bf87384f" />
-Utilized Splunk SIEM to monitor and investigate a live phishing attack in real-time as it unfolded across a corporate network. I successfully identified critical indicators of compromise, including suspicious DNS   requests, PowerShell executions, and reverse shell connections, and synthesized these findings into detailed case reports to map the full scope of the breach.
+- ### [SIEM-Sentinel: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Sentinel-/blob/main/README.md) &nbsp;&nbsp; <img width="145" height="55" alt="image" src="https://github.com/user-attachments/assets/7600a89e-893f-4bc1-ab0f-ca88c30b0cfb" />
+  (**In Process**) Ingesting and parsing security and firewall logs
 
 - ### [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
@@ -36,9 +39,6 @@ Utilized Splunk SIEM to monitor and investigate a live phishing attack in real-t
   
 - ### [Penetration Test Report](https://github.com/Redfooxx/Penetration-Test-Report)
    Produced SOC-relevant penetration testing deliverables (Executive + Technical reports) translating attack paths and impacts into actionable remediation and detection/monitoring considerations for security and IT teams.
-
- - ### [SIEM-Sentinel: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Sentinel-/blob/main/README.md) &nbsp;&nbsp; <img width="145" height="55" alt="image" src="https://github.com/user-attachments/assets/7600a89e-893f-4bc1-ab0f-ca88c30b0cfb" />
-    (**In Process**) Ingesting and parsing security and firewall logs
   
 # **Certifications** <img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
