@@ -12,9 +12,16 @@ layout: default
   </a>
 </h1>
 
+# **About Me** 
+
+Entry-level SOC Analyst with hands-on experience in log analysis and incident response gained through cybersecurity labs and competitions. Certified in Security+, Splunk, and SAL1, with a demonstrated ability to triage alerts, identify indicators of compromise (IOCs), and investigate security events. Based in Belize and fully available for U.S. remote work hours.
+
 # **TryHackMe Profile** 
 * * *
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>  
+
+I actively use TryHackMe to build hands-on cybersecurity skills through real-world labs and simulations. This helps me stay current with modern attack techniques and improve in threat detection, network security, and incident response.
+
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
