@@ -26,7 +26,7 @@ layout: default
   Utilized Elastic SIEM to perform end-to-end alert triage and incident reconstruction by analyzing common security logs and identifying critical Indicators of Compromise (IoCs). I successfully     correlated events across disparate log sources to uncover the full lifecycle of a breach, moving from the initial web-based alert to the discovery of malicious command execution.
 
 - ### [SIEM-Sentinel: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Sentinel-/blob/main/README.md) &nbsp;&nbsp; <img width="145" height="55" alt="image" src="https://github.com/user-attachments/assets/7600a89e-893f-4bc1-ab0f-ca88c30b0cfb" />
-  Deplyed a Microsoft Sentinel environment to simulate enterprise SIEM ingestion and monitoring workflows. A dedicated Log Analytics workspace (Cyber-Sentinel-Workspace) was created within the SOC-Project-RG resource group. The workspace was onboarded to Sentinel, enabling centralized log collection and analysis.
+  Deployed a Microsoft Sentinel environment to simulate enterprise SIEM ingestion and monitoring workflows. A dedicated Log Analytics workspace (Cyber-Sentinel-Workspace) was created within the SOC-Project-RG resource group. The workspace was onboarded to Sentinel, enabling centralized log collection and analysis.
 
 - ### [Home Security Lab](https://github.com/Redfooxx/Home-Security-Lab)
   Built a virtual SOC home lab (pfSense, Kali, Metasploitable2) to generate attack traffic (Nmap scanning) and analyze security telemetry to identify suspicious activity and document findings.
