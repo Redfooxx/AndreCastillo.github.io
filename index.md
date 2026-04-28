@@ -37,8 +37,6 @@ layout: default
 - ### [Penetration Testing: Pentesting Methodology, Planning and Threat Modeling](https://github.com/Redfooxx/PenTesting-Methodology-Planning-and-Threat-Modeling)
    Developed penetration test scoping and Rules of Engagement documentation (MOU, authorization, NDA, test plan) to ensure controlled, legally compliant testing that prevents false positives and supports accurate SOC      monitoring during exercises.
   
-- ### [Penetration Test Report](https://github.com/Redfooxx/Penetration-Test-Report)
-   Produced SOC-relevant penetration testing deliverables (Executive + Technical reports) translating attack paths and impacts into actionable remediation and detection/monitoring considerations for security and IT teams.
   
 # **Certifications** <img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
