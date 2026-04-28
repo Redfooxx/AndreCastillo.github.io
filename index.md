@@ -10,7 +10,7 @@ layout: default
   <a href="mailto:andre1525@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" style="display:block;">
   </a>
-<a href="[Andre L Castillo Resume.pdf](https://github.com/user-attachments/files/27184131/Andre.L.Castillo.Resume.pdf)" download target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
+<a href="https://github.com/user-attachments/files/27184131/Andre.L.Castillo.Resume.pdf" download="Andre_Castillo_Resume.pdf" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" height="35" style="display:block;">
   </a>
 </h1>
