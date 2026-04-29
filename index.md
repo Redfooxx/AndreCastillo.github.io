@@ -15,9 +15,6 @@ layout: default
   </a>
 </h1>
 
-
-
-
 # **About Me** 
 * * *
 
@@ -28,7 +25,6 @@ Entry-level SOC Analyst with hands-on experience in log analysis and incident re
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4901864" style='border:none;'></iframe>  
 
 I actively use TryHackMe to build hands-on cybersecurity skills through real-world labs and simulations. This helps me stay current with modern attack techniques and improve in threat detection, network security, and incident response.
-
 
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
@@ -51,7 +47,7 @@ I actively use TryHackMe to build hands-on cybersecurity skills through real-wor
 - ### [Penetration Testing: Pentesting Methodology, Planning and Threat Modeling](https://github.com/Redfooxx/PenTesting-Methodology-Planning-and-Threat-Modeling)
    Developed penetration test scoping and Rules of Engagement documentation (MOU, authorization, NDA, test plan) to ensure controlled, legally compliant testing that prevents false positives and supports accurate SOC      monitoring during exercises.
   
-  
+
 # **Certifications** <img src="3 certificate.png" alt="portfolio" width="50" height="50">
 * * *
 - [TryHackMe Security Analyst (SAL1)](https://assets.tryhackme.com/certification-certificate/69c16536495372f9757e2af4.pdf)
