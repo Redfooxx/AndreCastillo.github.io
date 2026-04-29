@@ -19,6 +19,7 @@ layout: default
 
 
 # **About Me** 
+* * *
 
 Entry-level SOC Analyst with hands-on experience in log analysis and incident response gained through cybersecurity labs and competitions. Certified in Security+, Splunk, and SAL1, with a demonstrated ability to triage alerts, identify indicators of compromise (IOCs), and investigate security events. Based in Belize and fully available for U.S. remote work hours.
 
