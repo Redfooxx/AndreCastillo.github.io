@@ -4,14 +4,14 @@ layout: default
 <h1 style="font-size: 36px; font-weight: bold; color: white;">
   Welcome to My Portfolio
   <img src="1 folder.png" alt="portfolio" width="50" height="50">
-  <a href="https://www.linkedin.com/in/andre-castillo-3801a056/" target="_blank" style="text-decoration:none; display:inline-block; margin-left:100px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="display:block;">
+  <a href="https://www.linkedin.com/in/andre-castillo-3801a056/" target="_blank" style="text-decoration:none; display:inline-block; margin-left:30px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="display:block;">
   </a>
-  <a href="mailto:andre1525@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" style="display:block;">
+  <a href="mailto:andre1525@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin-left:8px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" style="display:block;">
   </a>
-<a href="https://github.com/user-attachments/files/27184131/Andre.L.Castillo.Resume.pdf" download="Andre_Castillo_Resume.pdf" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" height="35" style="display:block;">
+  <a href="https://github.com/user-attachments/files/27184131/Andre.L.Castillo.Resume.pdf" download="Andre_Castillo_Resume.pdf" target="_blank" style="text-decoration:none; display:inline-block; margin-left:8px;">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" height="28" style="display:block;">
   </a>
 </h1>
 
