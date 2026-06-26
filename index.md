@@ -29,13 +29,13 @@ I actively use TryHackMe to build hands-on cybersecurity skills through real-wor
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 
-<img width="2048" height="2048" alt="imgbin_244e51d334db95a7c42528db8faf03e5" src="https://github.com/user-attachments/assets/68ca918d-ff9b-4569-bedb-31249f73ae14" />
 
 
 
 
 
-- ### [Secure IoT Water Monitoring Pipeline](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="100" alt="internet-of-things-world-2018-world-s-largest-iot-event-iot-world-technology-technology-071edb422ddd6f666c8b4732e2227682" src="https://github.com/user-attachments/assets/33c703b8-ed78-48d9-be14-9a9e20d3ec13" />
+
+- ### [Secure IoT Water Monitoring Pipeline](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="2048" height="2048" alt="imgbin_244e51d334db95a7c42528db8faf03e5" src="https://github.com/user-attachments/assets/68ca918d-ff9b-4569-bedb-31249f73ae14" />
   Utilized Splunk SIEM to monitor and investigate a live phishing attack in real-time as it unfolded across a corporate network. I successfully identified critical indicators of compromise, including suspicious DNS       requests, PowerShell executions, and reverse shell connections, and synthesized these findings into detailed case reports to map the full scope of the breach.
   
 - ### [SIEM-Splunk: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="98" alt="629b450a95f79dc9fa7256f1" src="https://github.com/user-attachments/assets/ecb9b323-1aec-4023-9835-7e21bf87384f" />
