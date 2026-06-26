@@ -29,6 +29,7 @@ I actively use TryHackMe to build hands-on cybersecurity skills through real-wor
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 
+<img width="2048" height="2048" alt="imgbin_244e51d334db95a7c42528db8faf03e5" src="https://github.com/user-attachments/assets/68ca918d-ff9b-4569-bedb-31249f73ae14" />
 
 
 
