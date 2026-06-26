@@ -30,7 +30,7 @@ I actively use TryHackMe to build hands-on cybersecurity skills through real-wor
 * * *
 
 
-<img width="367" height="226" alt="iot_logo_white_border_transparent" src="https://github.com/user-attachments/assets/120076ec-2bae-4c06-b6df-044da52c54de" />
+
 
 
 
