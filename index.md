@@ -29,7 +29,7 @@ I actively use TryHackMe to build hands-on cybersecurity skills through real-wor
 # **Projects** <img src="2 laptop.png" alt="portfolio" width="40" height="40">
 * * *
 
-- ### [Secure IoT Water Monitoring Pipeline]([https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md](https://github.com/Redfooxx/IoT-Water-Pipeline)) &nbsp;&nbsp; <img width="100" height="100" alt="imgbin_244e51d334db95a7c42528db8faf03e5" src="https://github.com/user-attachments/assets/68ca918d-ff9b-4569-bedb-31249f73ae14" />
+- ### [Secure IoT Water Monitoring Pipeline](https://github.com/Redfooxx/IoT-Water-Pipeline/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="100" alt="imgbin_244e51d334db95a7c42528db8faf03e5" src="https://github.com/user-attachments/assets/68ca918d-ff9b-4569-bedb-31249f73ae14" />
   This project involved developing an end-to-end security pipeline for an IoT water monitoring system to defend against eavesdropping, data injection, and replay attacks. By implementing layered defenses—including mutual TLS, HMAC signing, and Isolation Forest anomaly detection—a resilient infrastructure was built to automatically block malicious traffic and provide real-time security alerts via a live dashboard.
   
 - ### [SIEM-Splunk: Live Phishing Attack](https://github.com/Redfooxx/SIEM-Splunk-Live-Phishing-Attack/blob/main/README.md) &nbsp;&nbsp; <img width="100" height="98" alt="629b450a95f79dc9fa7256f1" src="https://github.com/user-attachments/assets/ecb9b323-1aec-4023-9835-7e21bf87384f" />
